@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #FFA500, #FF4500);
+    color: whitesmoke;
+    font-weight: 300;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 350px;
+}

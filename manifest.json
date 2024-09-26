@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "ZDF Keys",
+    "version": "1.0",
+    "description": "Steuerung des ZDF Players mit Tasten",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+      "icons": {
+        "16": "/images/icon16.png",
+        "32": "/images/icon32.png",
+        "48": "/images/icon48.png",
+        "128": "/images/icon128.png"
+      },
+      "action": {
+        "default_title": "ZDF Keys",
+        "default_popup": "popup.html"
+      },
+    "content_scripts": [
+      {
+        "matches": ["*://www.zdf.de/*"],
+        "js": ["content.js"],
+        "run_at": "document_end"
+      }
+    ]
+  }
