@@ -29,3 +29,9 @@ Ein Chrome Addon. Steuert den Player der ZDFmediathek mit der Tastatur.
 
 - `updateVolumeBar(newVolume)`:
   - Visualisiert die aktuelle Lautstärke mit einer Fortschrittsanzeige.
+ 
+## Lizenz
+
+Dieses Projekt steht unter der MIT-Lizenz.
+
+## Fell free to send pull requests or make forks and have fun
