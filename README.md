@@ -1,6 +1,6 @@
 # ZDF Keys
 
-Ein Chrome Addon. Steuert den Player der ZDF Mediatehk mit der Tastatur.
+Ein Chrome Addon. Steuert den Player der ZDFmediathek mit der Tastatur.
 
 ## Funktionen
 
